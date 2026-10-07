@@ -6,33 +6,33 @@ Vida, Legado e Teorias Psicológicas
 Principais tópicos teóricos, conceituais e biográficos abordados nos estudos sobre **Carl Gustav Jung** presentes nas fontes
 ### 1\. **A Estrutura da Psique: Inconsciente Pessoal e Coletivo**
 
-* **Inconsciente Pessoal**: Camada superficial da psique contendo memórias esquecidas, desejos e conteúdos reprimidos ao longo da vida do indivíduo[1].
-* **Inconsciente Coletivo**: Camada psíquica mais profunda e universal, compartilhada por toda a humanidade, composta por predisposições e matrizes simbólicas herdadas chamadas **arquétipos**[1].
+* **Inconsciente Pessoal**: Camada superficial da psique contendo memórias esquecidas, desejos e conteúdos reprimidos ao longo da vida do indivíduo.
+* **Inconsciente Coletivo**: Camada psíquica mais profunda e universal, compartilhada por toda a humanidade, composta por predisposições e matrizes simbólicas herdadas chamadas **arquétipos**.
 
 ### 2\. **Principais Arquétipos e Dinâmicas Psíquicas**
 
-* **Persona**: A máscara social construída para adaptação às expectativas culturais e sociais[4].
-* **Sombra**: O lado não iluminado da personalidade, composto por aspectos rejeitados ou não integrados pelo ego[4].
-* **Anima e Animus**: Os componentes contrassexuais no inconsciente — o elemento feminino na psique masculina (*anima*) e o elemento masculino na psique feminina (*animus*)[4].
-* **Self (Si-Mesmo)**: O arquétipo central da totalidade e integração que organiza e harmoniza toda a psique consciente e inconsciente[4].
+* **Persona**: A máscara social construída para adaptação às expectativas culturais e sociais.
+* **Sombra**: O lado não iluminado da personalidade, composto por aspectos rejeitados ou não integrados pelo ego.
+* **Anima e Animus**: Os componentes contrassexuais no inconsciente — o elemento feminino na psique masculina (*anima*) e o elemento masculino na psique feminina (*animus*).
+* **Self (Si-Mesmo)**: O arquétipo central da totalidade e integração que organiza e harmoniza toda a psique consciente e inconsciente.
 
 ### 3\. **O Processo de Individuação e a Jornada do Herói**
 
-* **Individuação**: O caminho de desenvolvimento psicológico e integração dos opostos no qual o indivíduo busca a realização de seu potencial autêntico, tornando-se "quem realmente é"[7].
-* **Monomito e Mitologia**: A articulação feita por Joseph Campbell relacionando o processo de individuação à "Jornada do Herói", interpretando as histórias mitológicas como projeções dramáticas do amadurecimento psíquico[20].
+* **Individuação**: O caminho de desenvolvimento psicológico e integração dos opostos no qual o indivíduo busca a realização de seu potencial autêntico, tornando-se "quem realmente é".
+* **Monomito e Mitologia**: A articulação feita por Joseph Campbell relacionando o processo de individuação à "Jornada do Herói", interpretando as histórias mitológicas como projeções dramáticas do amadurecimento psíquico.
 
 ### 4\. **Sincronicidade e o Diálogo com a Física Quântica**
 
-* **Princípio de Conexão Acausal**: Definição da sincronicidade como a ocorrência simultânea de eventos psíquicos internos (como sonhos) e eventos físicos externos significativamente relacionados, sem relação de causa e efeito[24].
-* **Conjectura Pauli-Jung**: Colaboração entre Jung e o físico quântico Wolfgang Pauli sobre a ideia de *unus mundus* ("um só mundo"), propondo paralelos entre eventos psíquicos e fenômenos da física moderna, como o entrelaçamento quântico[24].
+* **Princípio de Conexão Acausal**: Definição da sincronicidade como a ocorrência simultânea de eventos psíquicos internos (como sonhos) e eventos físicos externos significativamente relacionados, sem relação de causa e efeito.
+* **Conjectura Pauli-Jung**: Colaboração entre Jung e o físico quântico Wolfgang Pauli sobre a ideia de *unus mundus* ("um só mundo"), propondo paralelos entre eventos psíquicos e fenômenos da física moderna, como o entrelaçamento quântico.
 
 ### 5\. **Tipologia Psicológica**
 
-* **Atitudes e Funções Cognitivas**: A classificação das personalidades segundo a orientação da energia psíquica (**introversão** e **extroversão**) combinada com quatro funções psicológicas centrais (**pensamento, sentimento, sensação e intuição**)[31].
+* **Atitudes e Funções Cognitivas**: A classificação das personalidades segundo a orientação da energia psíquica (**introversão** e **extroversão**) combinada com quatro funções psicológicas centrais (**pensamento, sentimento, sensação e intuição**).
 
 ### 6\. **Ruptura com Freud e o** **Livro Vermelho**
 
-* **Divergência da Psicanálise**: O término da parceria com Sigmund Freud em 1912–1913, motivado pela rejeição de Jung à explicação exclusivamente sexual das neuroses e por seu interesse nos aspectos espirituais e mitológicos[35].
+* **Divergência da Psicanálise**: O término da parceria com Sigmund Freud em 1912–1913, motivado pela rejeição de Jung à explicação exclusivamente sexual das neuroses e por seu interesse nos aspectos espirituais e mitológicos.
 * **O** **Liber Novus** **(** **O Livro Vermelho** **)**: O período de imersão de Jung no próprio inconsciente por meio da imaginação ativa, cujos registros visuais e diálogos internos deram origem ao núcleo de sua teoria madura
 ## Algumas das perguntas realizadas e respondidas pelo Caderno Gemini
 
@@ -119,3 +119,11 @@ A separação provocou em Jung um período de forte perturbação e isolamento, 
 As **44 fontes** reunidas neste caderno foram selecionadas para estruturar um estudo sintético e multidisciplinar sobre a vida, o pensamento e o legado de **Carl Gustav Jung**.
 
 A seleção combina textos originais primários, análises biográficas e históricas, articulações interdisciplinares e materiais multimídia.
+
+
+
+
+## 🔗 Links
+[Caderno Gemini](https://notebook.google.com/notebook/15cf269b-563e-4347-88be-4c5333a9a4f8)
+
+
